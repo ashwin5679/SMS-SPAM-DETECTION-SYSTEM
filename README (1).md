@@ -13,7 +13,7 @@ An intelligent system leveraging Natural Language Processing (NLP) and Machine L
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
